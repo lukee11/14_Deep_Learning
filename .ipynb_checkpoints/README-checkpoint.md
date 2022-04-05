@@ -18,9 +18,9 @@ Steps completed:
 
 ### Files
 
-[Closing Prices Starter Notebook](My_Code/lstm_stock_predictor_closing.ipynb)
+[Closing Prices Notebook](My_Code/lstm_stock_predictor_closing.ipynb)
 
-[FNG Starter Notebook](My_Code/lstm_stock_predictor_fng.ipynb)
+[FNG Index Notebook](My_Code/lstm_stock_predictor_fng.ipynb)
 
 - - -
 
