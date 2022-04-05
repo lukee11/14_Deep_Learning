@@ -27,7 +27,7 @@ Steps completed:
 ### Results
 
 > Which model has a lower loss?
-> *The LSTM Stock Predictor using closing prices has a lower loss of 0.0090 compared to 0.1337 for the FNG index.* 
+> *The LSTM Stock Predictor using closing prices has a lower loss of 0.0147 compared to 0.1065 for the FNG index.* 
 
 > Which model tracks the actual values better over time?
 > *The LSTM Stock Predictor using closing prices tracks the actual values better over time.* 
