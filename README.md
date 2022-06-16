@@ -10,9 +10,9 @@ I used deep learning recurrent neural networks to model bitcoin closing prices. 
 
 Steps completed:
 
-1. [Prepare the data for training and testing](#prepare-the-data-for-training-and-testing)
-2. [Build and train custom LSTM RNNs](#build-and-train-custom-lstm-rnns)
-3. [Evaluate the performance of each model](#evaluate-the-performance-of-each-model)
+* prepare-the-data-for-training-and-testing
+* build-and-train-custom-lstm-rnns
+* evaluate-the-performance-of-each-model
 
 - - -
 
